@@ -1,0 +1,20 @@
+.bile{
+    background-color: aqua;
+}
+.bile2{
+    background-color: rgb(0, 255, 42);
+}
+.bile3{
+    margin: auto;
+    width: 55%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.imagem{
+    margin: 10px;
+    width: 200px;
+    }
+    
+    img{
+    width: 100%;
+    }
